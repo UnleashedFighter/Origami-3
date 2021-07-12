@@ -1,0 +1,120 @@
+* {
+    /* color: #1e90ff; */
+    background-color:lightpink;
+    font-family: cursive, fantasy, serif;
+    margin: 0px;
+}
+
+
+.header{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
+
+.grid {
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+}
+
+.panda{
+    display : flex;
+    color:green;
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:magenta
+}
+
+.chameleon{
+    display : flex;
+    color:red
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(248, 99, 12)
+}
+
+.cicada{
+    display : flex;
+    color:black
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:red
+}
+
+.pigeon{
+    display : flex;
+    color:brown
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.teddy{
+    display : flex;
+    color:magenta
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:brown
+}
+
+.camel{
+    display : flex;
+    color:black
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:gold
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : lightslategrey;
+        padding: 25px;
+}
+
+body{
+    background: rgba(10, 178, 255, 0.932);
+    color: whitesmoke;
+}
+
+.Links {
+    padding: 25px;
+}
+
+img {
+    margin-bottom: -5px;
+}
+
+li {
+    color: #f00641;
+}
+
+b {
+    font-size: 20px;
+    color: #050e0e;
+}
+
+i {
+    font-size: 20px;
+    color: #b22222;
+}
